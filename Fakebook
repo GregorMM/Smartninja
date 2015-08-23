@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+        <title> GregaMM | Fakebook </title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="Smartninja, Fakebook ">
+        </head>
+            <body>
+            <h1><em>FAKEBOOK</em></h1>
+            <h2> <strong>GregaMM</strong> </h2>
+            <img src="http://www.aperfectworld.org/clipart/cartoons/nerd.png">        
+                    <br>
+                    <br>
+                    <button> Dodaj za prijatelja </button>           
+                    <br>
+                    <p> <strong>Kraj</strong>: Ljubljana</p>  
+                    <p> <strong>Leta</strong>: 17+</p>  
+                    <p> <strong>Izobrazba</strong>: Ninja</p>  
+                    <p> <strong>Hoby</strong>: Bike</p>  
+                    <p> <strong>Število FB prijateljev</strong>: 34234</p>  
+                    <p> <strong>Število FB neprijateljev</strong>: 16</p>  
+            </body>
+    </html>
